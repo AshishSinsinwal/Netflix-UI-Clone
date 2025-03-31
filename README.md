@@ -29,7 +29,7 @@ NetflixClone/
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```sh
-   git clone https://github.com/AshishSinsinwal/Netfliclone.git
+   git clone https://github.com/AshishSinsinwal/Netflix-UI-Clone.git
    ```
 2. Open the `netflix.html` file in a browser.
 3. Enjoy the Netflix UI experience!
@@ -38,8 +38,6 @@ NetflixClone/
 - **HTML5** for structure
 - **CSS3** for styling
 
-## 📷 Screenshots
-(Add screenshots of your project here)
 
 ## 🙌 Contributing
 Feel free to fork this repository and enhance the design!
